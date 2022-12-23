@@ -16,4 +16,4 @@
 
 ## Deploy Web lên AWS
 Tạo một instance trên EC2
-![CHEESE!](E:\HK1_NAM3\CLOUD_FINAL\Photo\Screenshot 2022-12-23 151810.png)
+![CHEESE!](Screenshot 2022-12-23 151810.png)
