@@ -16,4 +16,3 @@
 
 ## Deploy Web lên AWS
 Tạo một instance trên EC2
-<img width="941" alt="Screenshot 2022-12-23 151810" src="https://user-images.githubusercontent.com/115056835/209302641-71d46807-916c-488b-b6dc-722a9e8618b8.png">
